@@ -6,11 +6,12 @@ and open the template in the editor.
 -->
 <html>
     <head>
-        <title>TODO supply a title</title>
         <meta charset="UTF-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title></title>
     </head>
     <body>
-        <div>This is Program2</div>
+        <?php
+        echo "This is Project1";
+        ?>
     </body>
 </html>
